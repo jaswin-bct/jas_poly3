@@ -1,6 +1,5 @@
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
-// https://github.com/projectsophon/hardhat-circom
 import "hardhat-circom";
 // circuits 
 import 'dotenv/config'
